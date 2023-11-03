@@ -1,0 +1,1 @@
+// how do you write an interface with default and static method

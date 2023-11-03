@@ -1,0 +1,1 @@
+// how to remove leading and trailing spaces from a string

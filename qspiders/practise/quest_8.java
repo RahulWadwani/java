@@ -1,0 +1,1 @@
+//how to remove spaces from a string 

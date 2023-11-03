@@ -1,0 +1,1 @@
+// remove all occurrences of a given character from an input string 

@@ -1,0 +1,1 @@
+// show a diamond problem with multiple inheritence 
